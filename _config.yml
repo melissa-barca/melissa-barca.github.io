@@ -24,6 +24,7 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
+  transparent: FFEEAD
   primary: FF6F69
   primary-rgb: "255, 111, 105"
   secondary: 96CEB4
